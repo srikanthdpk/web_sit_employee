@@ -1,0 +1,23 @@
+form{
+    border:1px solid darkcyan;
+    text-align:center;
+    width:250px;
+    height:350px;
+    border-radius: 20px;
+    box-shadow: 5px 4px 10px darkcyan;
+    }
+    .fr{
+        justify-content: center;
+        align-items: center;
+        margin-left: 500px;
+    }
+    div{
+    margin:10px;
+    }
+    #msg{
+        color: red;
+    }
+    #aud{
+        margin-top: 10px;
+        
+    }
